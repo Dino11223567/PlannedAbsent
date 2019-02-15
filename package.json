@@ -1,0 +1,14 @@
+{
+  "name": "electronfinal",
+  "version": "1.0.0",
+  "description": "PlannedAbsent",
+  "main": "./main.js",
+  "scripts": {
+    "start":"electron ."
+  },
+  "author": "Henry",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.4"
+  }
+}
